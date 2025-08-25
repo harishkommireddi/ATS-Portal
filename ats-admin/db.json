@@ -1,0 +1,76 @@
+{
+  "jobs": [
+    {
+      "id": "101",
+      "title": "Frontend Engineer",
+      "location": "Hyderabad",
+      "skillsRequired": "React, TypeScript",
+      "openings": 2,
+      "status": "Open",
+      "postedAt": "2025-08-10"
+    },
+    {
+      "id": "102",
+      "title": "Backend Engineer",
+      "location": "Bengaluru",
+      "skillsRequired": "Node.js, PostgreSQL",
+      "openings": 1,
+      "status": "Open",
+      "postedAt": "2025-08-15"
+    },
+    {
+      "id": "61a6",
+      "openings": 1,
+      "status": "Open",
+      "title": "New test ob",
+      "location": "Hyd",
+      "skillsRequired": "js, java"
+    },
+    {
+      "id": "8d74",
+      "openings": 1,
+      "status": "Open",
+      "title": "New test ob",
+      "location": "Hyd",
+      "skillsRequired": "js, java"
+    },
+    {
+      "id": "416c",
+      "openings": 1,
+      "status": "Open",
+      "title": "New test ob",
+      "location": "Hyd",
+      "skillsRequired": "js, java"
+    }
+  ],
+  "applicants": [
+    {
+      "id": "1",
+      "name": "Anita Rao",
+      "email": "anita@example.com",
+      "phone": "9000000001",
+      "skills": "React, TypeScript",
+      "status": "New",
+      "appliedAt": "2025-08-18",
+      "job_id": 101
+    },
+    {
+      "id": "2",
+      "name": "Vikram Shah",
+      "email": "vikram@example.com",
+      "phone": "9000000002",
+      "skills": "Node.js, SQL",
+      "status": "Shortlisted",
+      "appliedAt": "2025-08-19",
+      "job_id": 102
+    },
+    {
+      "id": "a736",
+      "status": "New",
+      "name": "ratio edit new plots poster",
+      "email": "laxmanvikaskommireddi@gmail.com",
+      "phone": "07396248815",
+      "skills": "java"
+    }
+  ]
+}
